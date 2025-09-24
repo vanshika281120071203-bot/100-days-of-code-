@@ -1,4 +1,4 @@
-Question Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
+Question 3  Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
 #include <stdio.h>
 
 int main() {
@@ -22,7 +22,7 @@ int main() {
     return 0;
 }
 
-Question 2 Write a program to calculate the area and circumference of a circle given its radius.
+Question 4 Write a program to calculate the area and circumference of a circle given its radius.
 
 #include <stdio.h>
 
