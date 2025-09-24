@@ -28,7 +28,7 @@ Question 28 Write a program to print the product of even numbers from 1 to n.
 
 int main() {
     int n;
-    long long product = 1; // Use long long to handle large products
+    long long product = 1; //  here Used long long to handle large products
 
     // Input n
     printf("Enter a positive integer n: ");
