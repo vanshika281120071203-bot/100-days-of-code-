@@ -42,7 +42,7 @@ int main() {
     int original = num; // Store original number
 
     // Use for loop to reverse the number
-    for (; num != 0; num = num / 10) {
+    for ( num != 0; num = num / 10) {
         digit = num % 10;            // Get last digit
         reversed = reversed * 10 + digit; // Append digit
     }
